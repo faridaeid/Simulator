@@ -1,0 +1,5 @@
+ASS 8, $1
+ASS 9, $2
+MUL $1, $2, $3
+WRITE $3
+HALT

@@ -1,0 +1,6 @@
+ASS 1, $1
+ASS 2, $2
+ADD $1, $2, $3
+ASS 11, $13
+WRITE $6
+HALT
